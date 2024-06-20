@@ -44,21 +44,6 @@ This repository contains Java projects that demonstrate concepts such as abstrac
 - **Test classes:** Contains JUnit tests for critical methods.
 - **Assertions:** Demonstrates assertions to verify expected outcomes.
 
-## Usage
-
-- Clone the repository: `git clone https://github.com/yourusername/java-repo.git`
-- Explore each directory to understand different Java concepts.
-- Run GUI applications to see them in action.
-- Check out JavaDoc documentation for detailed API references.
-- Execute JUnit tests to verify the functionality of classes and methods.
-
-## Contributing
-
-Contributions are welcome! If you find issues or want to add new examples, feel free to fork the repository and submit pull requests.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Author
 
