@@ -1,6 +1,6 @@
 # Java Repository Overview
 
-This repository contains Java projects that demonstrate concepts such as abstract classes, interfaces, GUI development using Swing, inheritance, polymorphism, JavaDoc documentation, and JUnit testing.
+This repository contains Java projects that demonstrate various object-oriented programming concepts such as abstract classes, interfaces, GUI development using Swing, inheritance, polymorphism, aggregation, composition, JavaDoc documentation, and JUnit testing.
 
 ## Contents
 
@@ -30,14 +30,21 @@ This repository contains Java projects that demonstrate concepts such as abstrac
 - **Shape hierarchy:** Abstract `Shape` class with subclasses like `Circle`, `Rectangle`.
 - **Polymorphic behavior:** Demonstrates overriding methods like `calculateArea()`.
 
-### 4. JavaDoc Documentation
+### 4. Aggregation and Composition
+
+#### Aggregation and Composition Example
+
+- **Car class:** Demonstrates aggregation with `Engine` class.
+- **House class:** Demonstrates composition with `Room` class containing `Furniture`.
+
+### 5. JavaDoc Documentation
 
 #### JavaDoc Example
 
 - **JavaDoc comments:** Used extensively to document classes, methods, and fields.
 - **Generated documentation:** Includes explanations, parameters, return values for methods.
 
-### 5. JUnit Testing
+### 6. JUnit Testing
 
 #### JUnit Testing Example
 
@@ -45,6 +52,7 @@ This repository contains Java projects that demonstrate concepts such as abstrac
 - **Assertions:** Demonstrates assertions to verify expected outcomes.
 
 
+
 ## Author
 
-- Created by [HASNAIN SALEEM]
+- Created by HASNAIN SALEEM
