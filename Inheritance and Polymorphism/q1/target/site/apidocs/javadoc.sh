@@ -1,1 +1,0 @@
-/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home/bin/javadoc @options @packages
